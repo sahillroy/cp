@@ -8,7 +8,8 @@ vector<int> Movezeroes(vector<int> arr){
     for(int j=0;j<n;j++){
         if(arr[j] != 0){
             swap(arr[i],arr[j]);
-            i++;
+            i++; // here i++ only happens if the above condition satisfies otherwise i will not increment
+            // and only j will increment. This is necesarry if we have 2 or more consec zeroes  
         }
     }
     return arr;
@@ -20,7 +21,8 @@ int main(){
     cout<<"Enter the number of elements in array: ";
     cin>>n;
 
-    cout<<"Enter the Elements: ";
+    cout<<"Enter the Elements: "; // for taking input array this method is used as the other method of arr[n]
+                                  // gives segmentation fault
     for(int i=0;i<n;i++){
         int x;
         cin>>x;
