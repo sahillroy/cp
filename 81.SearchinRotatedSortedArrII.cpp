@@ -70,3 +70,22 @@ int main(){
     }
     return 0;
 }
+
+/*
+why this method is used for sorting these types of Questions??
+It remains partially sorted:
+At least one half (left or right of mid) is guaranteed to be sorted in each step.
+Key property enabling binary search: If one side is sorted, we can check if the target lies within 
+that half and reduce the search space by half.
+
+Why we “check which half is sorted” (two binary sorting checks) ??
+At each step:
+If nums[low] <= nums[mid], then the left half is sorted.
+Else if nums[mid] <= nums[high], then the right half is sorted
+
+What about duplicates?
+In the presence of duplicates, it is possible:
+nums[low] == nums[mid] == nums[high]
+We cannot determine which half is sorted.
+To avoid infinite loops, we increment low++ and decrement high-- to shrink the window
+*/
