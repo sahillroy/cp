@@ -70,5 +70,5 @@ int main() {
  moving main to temp => temp=[3,2,1] main=[]
  swapping main=[3,2,1] temp =[]
 
- now it will pop out 3 first just like LIFO
+ now it will pop out 3 first just like LIFO 
 */

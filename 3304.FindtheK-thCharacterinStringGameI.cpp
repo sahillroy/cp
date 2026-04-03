@@ -29,8 +29,8 @@ int main() {
     return 0;
 }
 // if we declared n above while loop we'll get TLE as agter each loop iteration size of string is increasing
-//concept of Q for string
-//Initially, word = "a". We need to do the operation three times:
+// concept of Q for string
+// Initially, word = "a". We need to do the operation three times:
 // Generated string is "b", word becomes "ab".
 // Generated string is "bc", word becomes "abbc".
 // Generated string is "bccd", word becomes "abbcbccd".
