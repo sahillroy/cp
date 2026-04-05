@@ -39,3 +39,16 @@ int main() {
     cout << "Number of subarrays with " << k << " different integers: " << res << endl;
     return 0;
 }
+
+/*
+In this code, we define a function `atmost` that calculates the number of subarrays with at most `k` different integers. The main 
+function `KDifferent` then uses this helper function to find the number of subarrays with exactly `k` different integers by 
+subtracting the count of subarrays with at most `k-1` different integers from the count of subarrays with at most `k` different 
+integers.
+The `main` function prompts the user to input the number of elements, the elements themselves, and the number of different integers 
+`k`. Finally, it calls the `KDifferent` function and outputs the result.
+The atmost function uses a sliding window approach with two pointers `i` and `j` to maintain a window of subarrays. 
+It uses an unordered map to count the frequency of integers in the current window and adjusts the window size to ensure that it 
+contains at most `k` different integers. The total count of valid subarrays is accumulated in the variable `ans`.
+
+*/
