@@ -12,3 +12,4 @@
 | Basic Data Types | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem?isFullScreen=true) |
 | Conditional Statements | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?isFullScreen=true) |
 | Loops | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) |
+| Write a function | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) |
