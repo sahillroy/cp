@@ -16,3 +16,4 @@
 | Print Function | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) |
 | Pointer | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true) |
 | Arrays Introduction | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true) |
+| Missing Number | cses | cpp | [link](https://cses.fi/problemset/task/1083) |
