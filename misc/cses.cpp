@@ -1,26 +1,32 @@
 // Problem: CSES
-// Link: https://cses.fi/problemset/result/18204681/
+// Link: https://cses.fi/problemset/result/18205023/
 
 #include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    long long n;
-    cin >> n;
+    int n, target;
+    cin >> n >> target;
 
-    const long long mod = 1e9 + 7;
+    vector<int> coins(n);
+    for (int i = 0; i < n; i++)
+        cin >> coins[i];
 
-    vector<long long> dp(n + 1, 0);
+    const int INF = 1e9;
+    vector<int> dp(target + 1, INF);
 
-    dp[0] = 1;
+    dp[0] = 0;
 
-    for (long long i = 1; i <= n; i++) {
-        for (int dice = 1; dice <= 6; dice++) {
-            if (i - dice >= 0) {
-                dp[i] = (dp[i] + dp[i - dice]) % mod;
+    for (int i = 1; i <= target; i++) {
+        for (int coin : coins) {
+            if (i >= coin) {
+                dp[i] = min(dp[i], dp[i - coin] + 1);
             }
         }
     }
 
-    cout << dp[n] << '\n';
+    if (dp[target] == INF)
+        cout << -1 << '\n';
+    else
+        cout << dp[target] << '\n';
 }
