@@ -19,3 +19,4 @@
 | Missing Number | cses | cpp | [link](https://cses.fi/problemset/task/1083) |
 | CSES | misc | cpp | [link](https://cses.fi/problemset/result/18097236/) |
 | CSES | misc | cpp | [link](https://cses.fi/problemset/result/18098357/) |
+| CSES | misc | cpp | [link](https://cses.fi/problemset/result/18204681/) |
