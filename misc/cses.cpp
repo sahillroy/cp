@@ -1,32 +1,26 @@
 // Problem: CSES
-// Link: https://cses.fi/problemset/result/18098357/
+// Link: https://cses.fi/problemset/result/18204681/
 
 #include <bits/stdc++.h>
 using namespace std;
- 
+
 int main() {
-    int n;
+    long long n;
     cin >> n;
- 
-    vector<long long> arr;
-    if(n==1){
-        cout<<"1"<<endl;
-    }
-    else if(n<4){
-        cout<<"NO SOLUTION"<<endl;
-    }
-    else if(n>=4){
-        for(int i =2 ; i<=n; i+=2){
-            arr.push_back(i);
-        }
-        for(int i =1 ; i<=n; i+=2){
-            arr.push_back(i);
+
+    const long long mod = 1e9 + 7;
+
+    vector<long long> dp(n + 1, 0);
+
+    dp[0] = 1;
+
+    for (long long i = 1; i <= n; i++) {
+        for (int dice = 1; dice <= 6; dice++) {
+            if (i - dice >= 0) {
+                dp[i] = (dp[i] + dp[i - dice]) % mod;
+            }
         }
     }
- 
-    for(int i=0; i<arr.size(); i++){
-        cout<<arr[i]<<" ";
-    }
- 
-   return 0;
+
+    cout << dp[n] << '\n';
 }
