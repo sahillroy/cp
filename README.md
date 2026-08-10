@@ -24,3 +24,4 @@
 | Recyclable and Low Fat Products | leetcode | cpp | [link](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50) |
 | Find Customer Referee | leetcode | cpp | [link](https://leetcode.com/problems/find-customer-referee/?envType=study-plan-v2&envId=top-sql-50) |
 | Big Countries | leetcode | cpp | [link](https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=top-sql-50) |
+| Article Views I | leetcode | cpp | [link](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50) |
