@@ -22,3 +22,4 @@
 | CSES | misc | cpp | [link](https://cses.fi/problemset/result/18204681/) |
 | CSES | misc | cpp | [link](https://cses.fi/problemset/result/18205023/) |
 | Recyclable and Low Fat Products | leetcode | cpp | [link](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50) |
+| Find Customer Referee | leetcode | cpp | [link](https://leetcode.com/problems/find-customer-referee/?envType=study-plan-v2&envId=top-sql-50) |
