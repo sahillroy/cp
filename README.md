@@ -26,3 +26,4 @@
 | Big Countries | leetcode | cpp | [link](https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=top-sql-50) |
 | Article Views I | leetcode | cpp | [link](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50) |
 | Invalid Tweets | leetcode | cpp | [link](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50) |
+| Replace Employee ID With The Unique Identifier | leetcode | cpp | [link](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50) |
