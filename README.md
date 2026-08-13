@@ -30,3 +30,4 @@
 | Product Sales Analysis I | leetcode | cpp | [link](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50) |
 | Customer Who Visited but Did Not Make Any Transactions | leetcode | cpp | [link](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan-v2&envId=top-sql-50) |
 | Rising Temperature | leetcode | cpp | [link](https://leetcode.com/problems/rising-temperature/?envType=study-plan-v2&envId=top-sql-50) |
+| Average Time of Process per Machine | leetcode | cpp | [link](https://leetcode.com/problems/average-time-of-process-per-machine/?envType=study-plan-v2&envId=top-sql-50) |
