@@ -38,3 +38,4 @@
 | Not Boring Movies | leetcode | cpp | [link](https://leetcode.com/problems/not-boring-movies/) |
 | Average Selling Price | leetcode | cpp | [link](https://leetcode.com/problems/average-selling-price/submissions/2108774609/?envType=study-plan-v2&envId=top-sql-50) |
 | Project Employees I | leetcode | cpp | [link](https://leetcode.com/problems/project-employees-i/) |
+| Percentage of Users Attended a Contest | leetcode | cpp | [link](https://leetcode.com/problems/percentage-of-users-attended-a-contest/submissions/2108857222/?envType=study-plan-v2&envId=top-sql-50) |
