@@ -36,3 +36,4 @@
 | Managers with at Least 5 Direct Reports | leetcode | cpp | [link](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/submissions/2108726873/?envType=study-plan-v2&envId=top-sql-50) |
 | Confirmation Rate | leetcode | cpp | [link](https://leetcode.com/problems/confirmation-rate/submissions/2108752484/?envType=study-plan-v2&envId=top-sql-50) |
 | Not Boring Movies | leetcode | cpp | [link](https://leetcode.com/problems/not-boring-movies/) |
+| Average Selling Price | leetcode | cpp | [link](https://leetcode.com/problems/average-selling-price/submissions/2108774609/?envType=study-plan-v2&envId=top-sql-50) |
