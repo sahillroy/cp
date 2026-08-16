@@ -33,3 +33,4 @@
 | Average Time of Process per Machine | leetcode | cpp | [link](https://leetcode.com/problems/average-time-of-process-per-machine/?envType=study-plan-v2&envId=top-sql-50) |
 | Employee Bonus | leetcode | cpp | [link](https://leetcode.com/problems/employee-bonus/?envType=study-plan-v2&envId=top-sql-50) |
 | Students and Examinations | leetcode | cpp | [link](https://leetcode.com/problems/students-and-examinations/?envType=study-plan-v2&envId=top-sql-50) |
+| Managers with at Least 5 Direct Reports | leetcode | cpp | [link](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/submissions/2108726873/?envType=study-plan-v2&envId=top-sql-50) |
