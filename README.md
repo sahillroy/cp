@@ -40,3 +40,4 @@
 | Project Employees I | leetcode | cpp | [link](https://leetcode.com/problems/project-employees-i/) |
 | Percentage of Users Attended a Contest | leetcode | cpp | [link](https://leetcode.com/problems/percentage-of-users-attended-a-contest/submissions/2108857222/?envType=study-plan-v2&envId=top-sql-50) |
 | Queries Quality and Percentage | leetcode | cpp | [link](https://leetcode.com/problems/queries-quality-and-percentage/?envType=study-plan-v2&envId=top-sql-50) |
+| Immediate Food Delivery II | leetcode | cpp | [link](https://leetcode.com/problems/immediate-food-delivery-ii/?envType=study-plan-v2&envId=top-sql-50) |
