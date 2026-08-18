@@ -42,3 +42,4 @@
 | Queries Quality and Percentage | leetcode | cpp | [link](https://leetcode.com/problems/queries-quality-and-percentage/?envType=study-plan-v2&envId=top-sql-50) |
 | Immediate Food Delivery II | leetcode | cpp | [link](https://leetcode.com/problems/immediate-food-delivery-ii/?envType=study-plan-v2&envId=top-sql-50) |
 | Game Play Analysis IV | leetcode | cpp | [link](https://leetcode.com/problems/game-play-analysis-iv/submissions/2110059899/?envType=study-plan-v2&envId=top-sql-50) |
+| Number of Unique Subjects Taught by Each Teacher | leetcode | cpp | [link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/?envType=study-plan-v2&envId=top-sql-50) |
