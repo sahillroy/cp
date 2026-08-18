@@ -44,3 +44,4 @@
 | Game Play Analysis IV | leetcode | cpp | [link](https://leetcode.com/problems/game-play-analysis-iv/submissions/2110059899/?envType=study-plan-v2&envId=top-sql-50) |
 | Number of Unique Subjects Taught by Each Teacher | leetcode | cpp | [link](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/?envType=study-plan-v2&envId=top-sql-50) |
 | User Activity for the Past 30 Days I | leetcode | cpp | [link](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/?envType=study-plan-v2&envId=top-sql-50) |
+| Product Sales Analysis III | leetcode | cpp | [link](https://leetcode.com/problems/product-sales-analysis-iii/submissions/2111856840/?envType=study-plan-v2&envId=top-sql-50) |
