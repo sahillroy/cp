@@ -47,3 +47,4 @@
 | Product Sales Analysis III | leetcode | cpp | [link](https://leetcode.com/problems/product-sales-analysis-iii/submissions/2111856840/?envType=study-plan-v2&envId=top-sql-50) |
 | Classes With at Least 5 Students | leetcode | cpp | [link](https://leetcode.com/problems/classes-with-at-least-5-students/submissions/2112504180/?envType=study-plan-v2&envId=top-sql-50) |
 | Find Followers Count | leetcode | cpp | [link](https://leetcode.com/problems/find-followers-count/?envType=study-plan-v2&envId=top-sql-50) |
+| Biggest Single Number | leetcode | cpp | [link](https://leetcode.com/problems/biggest-single-number/?envType=study-plan-v2&envId=top-sql-50) |
