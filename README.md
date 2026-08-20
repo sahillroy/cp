@@ -49,3 +49,4 @@
 | Find Followers Count | leetcode | cpp | [link](https://leetcode.com/problems/find-followers-count/?envType=study-plan-v2&envId=top-sql-50) |
 | Biggest Single Number | leetcode | cpp | [link](https://leetcode.com/problems/biggest-single-number/?envType=study-plan-v2&envId=top-sql-50) |
 | Customers Who Bought All Products | leetcode | cpp | [link](https://leetcode.com/problems/customers-who-bought-all-products/?envType=study-plan-v2&envId=top-sql-50) |
+| The Number of Employees Which Report to Each Employee | leetcode | cpp | [link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/submissions/2114295799/?envType=study-plan-v2&envId=top-sql-50) |
