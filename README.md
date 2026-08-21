@@ -51,3 +51,4 @@
 | Customers Who Bought All Products | leetcode | cpp | [link](https://leetcode.com/problems/customers-who-bought-all-products/?envType=study-plan-v2&envId=top-sql-50) |
 | The Number of Employees Which Report to Each Employee | leetcode | cpp | [link](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/submissions/2114295799/?envType=study-plan-v2&envId=top-sql-50) |
 | Primary Department for Each Employee | leetcode | cpp | [link](https://leetcode.com/problems/primary-department-for-each-employee/submissions/2114830067/?envType=study-plan-v2&envId=top-sql-50) |
+| Triangle Judgement | leetcode | cpp | [link](https://leetcode.com/problems/triangle-judgement/?envType=study-plan-v2&envId=top-sql-50) |
