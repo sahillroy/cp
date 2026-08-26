@@ -55,3 +55,4 @@
 | Consecutive Numbers | leetcode | cpp | [link](https://leetcode.com/problems/consecutive-numbers/submissions/2114870080/?envType=study-plan-v2&envId=top-sql-50) |
 | Employees Whose Manager Left the Company | leetcode | cpp | [link](https://leetcode.com/problems/employees-whose-manager-left-the-company/submissions/2115481743/?envType=study-plan-v2&envId=top-sql-50) |
 | Last Person to Fit in the Bus | leetcode | cpp | [link](https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50) |
+| Climbing Stairs | leetcode | cpp | [link](https://leetcode.com/problems/climbing-stairs/) |
