@@ -57,3 +57,4 @@
 | Last Person to Fit in the Bus | leetcode | cpp | [link](https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50) |
 | Climbing Stairs | leetcode | cpp | [link](https://leetcode.com/problems/climbing-stairs/) |
 | N | leetcode | cpp | [link](https://leetcode.com/problems/n-th-tribonacci-number/) |
+| Reverse String | leetcode | cpp | [link](https://leetcode.com/problems/reverse-string/) |
