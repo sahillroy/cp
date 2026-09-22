@@ -58,3 +58,4 @@
 | Climbing Stairs | leetcode | cpp | [link](https://leetcode.com/problems/climbing-stairs/) |
 | N | leetcode | cpp | [link](https://leetcode.com/problems/n-th-tribonacci-number/) |
 | Reverse String | leetcode | cpp | [link](https://leetcode.com/problems/reverse-string/) |
+| Longest Happy String | leetcode | cpp | [link](https://leetcode.com/problems/longest-happy-string/) |
