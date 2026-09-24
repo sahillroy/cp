@@ -60,3 +60,4 @@
 | Reverse String | leetcode | cpp | [link](https://leetcode.com/problems/reverse-string/) |
 | Longest Happy String | leetcode | cpp | [link](https://leetcode.com/problems/longest-happy-string/) |
 | Movie Rating | leetcode | cpp | [link](https://leetcode.com/problems/movie-rating/?envType=study-plan-v2&envId=top-sql-50) |
+| Restaurant Growth | leetcode | cpp | [link](https://leetcode.com/problems/restaurant-growth/submissions/2152384078/?envType=study-plan-v2&envId=top-sql-50) |
