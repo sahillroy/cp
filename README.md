@@ -59,3 +59,4 @@
 | N | leetcode | cpp | [link](https://leetcode.com/problems/n-th-tribonacci-number/) |
 | Reverse String | leetcode | cpp | [link](https://leetcode.com/problems/reverse-string/) |
 | Longest Happy String | leetcode | cpp | [link](https://leetcode.com/problems/longest-happy-string/) |
+| Movie Rating | leetcode | cpp | [link](https://leetcode.com/problems/movie-rating/?envType=study-plan-v2&envId=top-sql-50) |
