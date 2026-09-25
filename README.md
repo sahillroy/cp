@@ -78,3 +78,4 @@
 | Select By ID | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) |
 | Japanese Cities' Names | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/japanese-cities-name/problem) |
 | Weather Observation Station 3 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) |
+| Weather Observation Station 5 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) |
