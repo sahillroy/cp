@@ -63,3 +63,4 @@
 | Restaurant Growth | leetcode | cpp | [link](https://leetcode.com/problems/restaurant-growth/submissions/2152384078/?envType=study-plan-v2&envId=top-sql-50) |
 | Missing And Repeating | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) |
 | Indexes of Subarray Sum | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |
+| Missing in Array | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) |
