@@ -77,3 +77,4 @@
 | Revising the Select Query I | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) |
 | Select By ID | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) |
 | Japanese Cities' Names | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/japanese-cities-name/problem) |
+| Weather Observation Station 3 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) |
