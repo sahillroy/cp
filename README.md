@@ -74,3 +74,4 @@
 | Salary of Employees Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP08?tab=statement) |
 | Department of Each Employee Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP09?tab=statement) |
 | Article views Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP06) |
+| Revising the Select Query I | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) |
