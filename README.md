@@ -67,3 +67,4 @@
 | Smallest Subarray Sum Greater Than x | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1) |
 | All Products Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP11) |
 | High Price of Products Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP12) |
+| Average Salary Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP14) |
