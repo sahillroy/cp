@@ -70,3 +70,4 @@
 | Average Salary Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP14) |
 | Locate People Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP15) |
 | Fiction Collection Size Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP02) |
+| Handling NULL Values Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP07) |
