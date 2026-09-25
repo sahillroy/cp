@@ -68,3 +68,4 @@
 | All Products Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP11) |
 | High Price of Products Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP12) |
 | Average Salary Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP14) |
+| Locate People Practice Problem in SQL Practice Queries | codechef | cpp | [link](https://www.codechef.com/practice/course/sql-case-studies-topic-wise/SQLBP01/problems/SQLPBP15) |
