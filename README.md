@@ -80,3 +80,4 @@
 | Weather Observation Station 3 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) |
 | Weather Observation Station 5 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) |
 | Weather Observation Station 6 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) |
+| Weather Observation Station 7 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) |
