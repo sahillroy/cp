@@ -84,3 +84,4 @@
 | Weather Observation Station 8 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) |
 | Weather Observation Station 9 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) |
 | Weather Observation Station 10 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) |
+| Inserting Data into a Table in SQL | codechef | cpp | [link](https://www.codechef.com/learn/course/sql/SQ00LS01/problems/GSQ05) |
