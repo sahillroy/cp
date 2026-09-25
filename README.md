@@ -79,3 +79,4 @@
 | Japanese Cities' Names | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/japanese-cities-name/problem) |
 | Weather Observation Station 3 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) |
 | Weather Observation Station 5 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) |
+| Weather Observation Station 6 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) |
