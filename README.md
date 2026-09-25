@@ -64,3 +64,4 @@
 | Missing And Repeating | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) |
 | Indexes of Subarray Sum | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) |
 | Missing in Array | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) |
+| Smallest Subarray Sum Greater Than x | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1) |
