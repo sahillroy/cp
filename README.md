@@ -101,3 +101,4 @@
 | Employee Salaries | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) |
 | Average Population | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) |
 | Population Density Difference | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true) |
+| The Blunder | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true) |
