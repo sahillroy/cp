@@ -99,3 +99,4 @@
 | Higher Than 75 Marks | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) |
 | Employee Names | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true) |
 | Employee Salaries | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true) |
+| Average Population | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true) |
