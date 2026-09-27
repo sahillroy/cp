@@ -94,3 +94,4 @@
 | Average Population of Each Continent | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true) |
 | The Report | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/the-report/problem?isFullScreen=true) |
 | Top Competitors | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true) |
+| Ollivander's Inventory | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true) |
