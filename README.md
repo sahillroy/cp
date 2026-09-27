@@ -96,3 +96,4 @@
 | Top Competitors | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true) |
 | Ollivander's Inventory | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true) |
 | Weather Observation Station 12 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) |
+| Higher Than 75 Marks | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true) |
