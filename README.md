@@ -105,3 +105,4 @@
 | Top Earners | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true) |
 | Weather Observation Station 13 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true) |
 | Weather Observation Station 14 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?isFullScreen=true) |
+| Weather Observation Station 15 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true) |
