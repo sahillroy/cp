@@ -90,3 +90,4 @@
 | update table in SQL | codechef | cpp | [link](https://www.codechef.com/learn/course/sql/SQ00LS02/problems/GSQ09) |
 | Reverse Words in a String III | leetcode | cpp | [link](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
 | Population Census | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/asian-population/problem?isFullScreen=true) |
+| African Cities | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/african-cities/problem?isFullScreen=true) |
