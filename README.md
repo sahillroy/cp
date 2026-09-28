@@ -108,3 +108,4 @@
 | Weather Observation Station 15 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true) |
 | Running Sum of 1d Array | leetcode | cpp | [link](https://leetcode.com/problems/running-sum-of-1d-array/) |
 | Rotate Array | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) |
+| Sort 0s, 1s and 2s | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) |
