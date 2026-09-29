@@ -120,3 +120,4 @@
 | Revising Aggregations | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true) |
 | 15 Days of Learning SQL | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true) |
 | Weather Observation Station 11 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) |
+| Left Joins in Advanced SQL | codechef | cpp | [link](https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/GSQ63) |
