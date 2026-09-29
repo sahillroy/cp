@@ -116,3 +116,4 @@
 | Weather Observation Station 19 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true) |
 | Weather Observation Station 20 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true) |
 | Revising Aggregations | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) |
+| Revising Aggregations | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) |
