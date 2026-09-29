@@ -110,3 +110,4 @@
 | Rotate Array | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) |
 | Sort 0s, 1s and 2s | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) |
 | Is Subsequence | leetcode | cpp | [link](https://leetcode.com/problems/is-subsequence/submissions/2156288941/) |
+| Weather Observation Station 16 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true) |
