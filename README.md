@@ -118,3 +118,4 @@
 | Revising Aggregations | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true) |
 | Revising Aggregations | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true) |
 | Revising Aggregations | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true) |
+| 15 Days of Learning SQL | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem?isFullScreen=true) |
