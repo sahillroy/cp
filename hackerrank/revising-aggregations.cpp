@@ -1,6 +1,6 @@
 // Problem: Revising Aggregations
-// Link: https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true
+// Link: https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
 
-SELECT COUNT(COUNTRYCODE) 
-FROM CITY
-WHERE POPULATION>100000;
+SELECT SUM(POPULATION) 
+FROM CITY 
+WHERE DISTRICT = 'California';
