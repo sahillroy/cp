@@ -113,3 +113,4 @@
 | Weather Observation Station 16 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true) |
 | Weather Observation Station 17 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-17/problem?isFullScreen=true) |
 | Weather Observation Station 18 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true) |
+| Weather Observation Station 19 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true) |
