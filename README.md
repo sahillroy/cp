@@ -126,3 +126,4 @@
 | Class | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/c-tutorial-class/problem?isFullScreen=true) |
 | Classes and Objects | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true) |
 | Box It! | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/box-it/problem?isFullScreen=true) |
+| Inherited Code | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/inherited-code/problem?isFullScreen=true) |
