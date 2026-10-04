@@ -122,3 +122,4 @@
 | Weather Observation Station 11 | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true) |
 | Left Joins in Advanced SQL | codechef | cpp | [link](https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/GSQ63) |
 | Attribute Parser | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/attribute-parser/problem?isFullScreen=true) |
+| Structs | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/c-tutorial-struct/problem?isFullScreen=true) |
