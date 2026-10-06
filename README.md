@@ -132,3 +132,4 @@
 | Sales by Match | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true) |
 | Drawing Book | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true) |
 | Counting Valleys | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true) |
+| Electronics Shop | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) |
