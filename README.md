@@ -133,3 +133,4 @@
 | Drawing Book | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true) |
 | Counting Valleys | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true) |
 | Electronics Shop | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) |
+| Cats and a Mouse | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) |
