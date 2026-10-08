@@ -135,3 +135,4 @@
 | Electronics Shop | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) |
 | Cats and a Mouse | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) |
 | Forming a Magic Square | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true) |
+| Picking Numbers | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true) |
