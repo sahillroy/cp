@@ -137,3 +137,4 @@
 | Forming a Magic Square | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/magic-square-forming/problem?isFullScreen=true) |
 | Picking Numbers | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true) |
 | Climbing the Leaderboard | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true) |
+| The Hurdle Race | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) |
