@@ -143,3 +143,4 @@
 | Angry Professor | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) |
 | Beautiful Days at the Movies | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) |
 | Viral Advertising | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true) |
+| Save the Prisoner! | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true) |
