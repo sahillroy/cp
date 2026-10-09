@@ -145,3 +145,4 @@
 | Viral Advertising | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true) |
 | Save the Prisoner! | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true) |
 | Day of the Programmer | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true) |
+| Super Reduced String | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true) |
