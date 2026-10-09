@@ -140,3 +140,4 @@
 | The Hurdle Race | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) |
 | Designer PDF Viewer | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) |
 | Utopian Tree | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true) |
+| Angry Professor | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) |
