@@ -141,3 +141,4 @@
 | Designer PDF Viewer | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) |
 | Utopian Tree | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true) |
 | Angry Professor | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) |
+| Beautiful Days at the Movies | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) |
