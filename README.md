@@ -144,3 +144,4 @@
 | Beautiful Days at the Movies | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) |
 | Viral Advertising | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true) |
 | Save the Prisoner! | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true) |
+| Day of the Programmer | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true) |
