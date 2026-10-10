@@ -159,3 +159,4 @@
 | Reverse The Number Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW007) |
 | Qualify the round Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/QUALIFY) |
 | Minimum Cars required Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MINCARS) |
+| Discus Throw Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DISCUS) |
