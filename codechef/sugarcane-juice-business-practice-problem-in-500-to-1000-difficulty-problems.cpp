@@ -1,5 +1,5 @@
 // Problem: Sugarcane Juice Business Practice Problem in 500 to 1000 difficulty problems
-// Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUGARCANE?tab=statement
+// Link: https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUGARCANE
 
 #include <bits/stdc++.h>
 using namespace std;
