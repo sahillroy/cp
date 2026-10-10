@@ -150,3 +150,4 @@
 | Nth Geeky Number | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/is-it-fibonacci--170647/1) |
 | Employees Earning More Than Their Managers | leetcode | cpp | [link](https://leetcode.com/problems/employees-earning-more-than-their-managers/submissions/2168453099/) |
 | Sugarcane Juice Business Practice Problem in 500 to 1000 difficulty problems | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUGARCANE?tab=statement) |
+| Sugarcane Juice Business Practice Problem in 500 to 1000 difficulty problems | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUGARCANE) |
