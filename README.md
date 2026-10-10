@@ -146,3 +146,4 @@
 | Save the Prisoner! | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true) |
 | Day of the Programmer | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true) |
 | Super Reduced String | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true) |
+| Smallest window containing 0, 1 and 2 | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1) |
