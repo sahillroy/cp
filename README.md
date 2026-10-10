@@ -151,3 +151,4 @@
 | Employees Earning More Than Their Managers | leetcode | cpp | [link](https://leetcode.com/problems/employees-earning-more-than-their-managers/submissions/2168453099/) |
 | Sugarcane Juice Business Practice Problem in 500 to 1000 difficulty problems | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUGARCANE?tab=statement) |
 | Sugarcane Juice Business Practice Problem in 500 to 1000 difficulty problems | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SUGARCANE) |
+| Chef and Candies Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFCAND) |
