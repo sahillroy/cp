@@ -176,3 +176,4 @@
 | Chef and Races Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFRACES) |
 | Endless Appetizers Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MOZZ) |
 | Dracula Eats Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEAT) |
+| Mutated Minions Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHN15A) |
