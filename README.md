@@ -148,3 +148,4 @@
 | Super Reduced String | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true) |
 | Smallest window containing 0, 1 and 2 | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/smallest-window-containing-0-1-and-2--170637/1) |
 | Nth Geeky Number | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/is-it-fibonacci--170647/1) |
+| Employees Earning More Than Their Managers | leetcode | cpp | [link](https://leetcode.com/problems/employees-earning-more-than-their-managers/submissions/2168453099/) |
