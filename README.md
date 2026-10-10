@@ -172,3 +172,4 @@
 | Self Defence Training Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SELFDEF) |
 | Speed Limit Test Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST) |
 | Second Largest Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW017) |
+| Too many items Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/POLYBAGS) |
