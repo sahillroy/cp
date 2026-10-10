@@ -156,3 +156,4 @@
 | Is the Score Consistent Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TRUESCORE) |
 | Monopoly Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/MONOPOLY2) |
 | Problems in your to | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TODOLIST) |
+| Reverse The Number Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FLOW007) |
