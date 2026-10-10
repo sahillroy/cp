@@ -170,3 +170,4 @@
 | Weights Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/WGHTS) |
 | Chef Eren Practice Problem in 500 to 1000 difficulty problems | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/CHEFEREN) |
 | Self Defence Training Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SELFDEF) |
+| Speed Limit Test Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SPEEDTEST) |
