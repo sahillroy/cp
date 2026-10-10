@@ -8,17 +8,14 @@ int main() {
     int t;
     cin >> t;
     while (t--) {
-        int n;
-        cin >> n;
-        int count = 0;
-        for (int i = 0; i < n; i++) {
-            int d;
-            cin >> d;
-            if (d >= 1000) {
-                count++;
-            }
+        int a, b, c;
+        cin >> a >> b >> c;
+
+        if (a <= b && c <= b) {
+            cout << "Yes\n";
+        } else {
+            cout << "No\n";
         }
-        cout << count << "\n";
     }
     return 0;
 }
