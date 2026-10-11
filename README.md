@@ -180,3 +180,4 @@
 | Get Lowest Free Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/SALE) |
 | Best of Two Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/DICEGAME2) |
 | Recent contest problems Practice Problem in 500 to 1000 difficulty rating | codechef | cpp | [link](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/RECENTCONT) |
+| Count Increasing Subarrays | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1) |
