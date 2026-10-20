@@ -183,3 +183,4 @@
 | Count Increasing Subarrays | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/count-increasing-subarrays5301/1) |
 | Maximum Packages within Time | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/bird-and-maximum-fruit-gathering0509/1) |
 | Check if Permutation is Substring | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/check-if-permutation-is-substring/1) |
+| Zero Sum Subarray | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) |
