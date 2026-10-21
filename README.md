@@ -185,3 +185,4 @@
 | Check if Permutation is Substring | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/check-if-permutation-is-substring/1) |
 | Zero Sum Subarray | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) |
 | Palindrome String | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
+| Simplify Path | leetcode | cpp | [link](https://leetcode.com/problems/simplify-path/submissions/2177939349/?envType=problem-list-v2&envId=string) |
