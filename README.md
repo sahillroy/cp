@@ -187,3 +187,4 @@
 | Palindrome String | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) |
 | Simplify Path | leetcode | cpp | [link](https://leetcode.com/problems/simplify-path/submissions/2177939349/?envType=problem-list-v2&envId=string) |
 | Array Subset | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) |
+| Local Min and Max Sequence Ordering | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/track-the-trail/1) |
