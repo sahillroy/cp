@@ -192,3 +192,4 @@
 | Sequence Equation | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true) |
 | Jumping on the Clouds: Revisited | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true) |
 | Find Digits | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true) |
+| Extra Long Factorials | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true) |
