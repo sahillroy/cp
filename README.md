@@ -189,3 +189,4 @@
 | Array Subset | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) |
 | Local Min and Max Sequence Ordering | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/track-the-trail/1) |
 | Peak in Array | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/peak-element/1) |
+| Sequence Equation | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true) |
