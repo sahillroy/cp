@@ -19,7 +19,9 @@ vector<string> split(const string &);
  */
 
 int squares(int a, int b) {
-
+    int start = ceil(sqrt(a));
+    int end = floor(sqrt(b));
+    return end - start + 1;
 }
 
 int main()
