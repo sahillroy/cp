@@ -195,3 +195,4 @@
 | Extra Long Factorials | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true) |
 | Sherlock and Squares | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true) |
 | Library Fine | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true) |
+| Linear Probing in Hashing | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/linear-probing-in-hashing-1587115620/1) |
