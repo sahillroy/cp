@@ -198,3 +198,4 @@
 | Linear Probing in Hashing | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/linear-probing-in-hashing-1587115620/1) |
 | Cut the sticks | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true) |
 | Non | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true) |
+| Remove Duplicates from Unsorted | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/remove-duplicates-from-unsorted-array4141/1) |
