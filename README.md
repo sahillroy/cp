@@ -200,3 +200,4 @@
 | Non | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true) |
 | Remove Duplicates from Unsorted | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/remove-duplicates-from-unsorted-array4141/1) |
 | Count Distinct in Array | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/find-distinct-elements--130928/1) |
+| Highest and Lowest Frequencies | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/difference-between-highest-and-lowest-occurrence4613/1) |
