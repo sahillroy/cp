@@ -203,3 +203,4 @@
 | Highest and Lowest Frequencies | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/difference-between-highest-and-lowest-occurrence4613/1) |
 | Top K Frequent Elements | leetcode | cpp | [link](https://leetcode.com/problems/top-k-frequent-elements/) |
 | Quadratic Probing in Hashing | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/quadratic-probing-in-hashing-1587115621/1) |
+| Check Arithmetic Progression | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/check-arithmetic-progression1842/1) |
