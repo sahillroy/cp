@@ -205,3 +205,4 @@
 | Quadratic Probing in Hashing | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/quadratic-probing-in-hashing-1587115621/1) |
 | Check Arithmetic Progression | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/check-arithmetic-progression1842/1) |
 | Distinct | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/unique-numbers3019/1) |
+| Repeated String | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true) |
