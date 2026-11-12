@@ -204,3 +204,4 @@
 | Top K Frequent Elements | leetcode | cpp | [link](https://leetcode.com/problems/top-k-frequent-elements/) |
 | Quadratic Probing in Hashing | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/quadratic-probing-in-hashing-1587115621/1) |
 | Check Arithmetic Progression | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/check-arithmetic-progression1842/1) |
+| Distinct | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/unique-numbers3019/1) |
