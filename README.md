@@ -207,3 +207,4 @@
 | Distinct | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/unique-numbers3019/1) |
 | Repeated String | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true) |
 | Jumping on the Clouds | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true) |
+| Equalize the Array | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true) |
