@@ -209,3 +209,4 @@
 | Jumping on the Clouds | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true) |
 | Equalize the Array | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true) |
 | Queen's Attack II | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true) |
+| Intersection of Two arrays with Duplicate Elements | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/intersection-of-two-arrays-with-duplicate-elements/1) |
