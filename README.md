@@ -210,3 +210,4 @@
 | Equalize the Array | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true) |
 | Queen's Attack II | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true) |
 | Intersection of Two arrays with Duplicate Elements | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/intersection-of-two-arrays-with-duplicate-elements/1) |
+| Divide Array into Pairs with Sum Divisible by K | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1) |
