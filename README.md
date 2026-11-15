@@ -213,3 +213,4 @@
 | Divide Array into Pairs with Sum Divisible by K | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1) |
 | Roman to Integer | gfg | cpp | [link](https://www.geeksforgeeks.org/problems/roman-number-to-integer3201/1) |
 | Taum and B'day | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true) |
+| Organizing Containers of Balls | hackerrank | cpp | [link](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem?isFullScreen=true) |
